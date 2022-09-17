@@ -5,7 +5,7 @@
 
 
 ### git version 확인
-
+ 설치가 잘 되었다면 git 버전이 잘 출력된다.
 ```git
   $ git --version
 ```
